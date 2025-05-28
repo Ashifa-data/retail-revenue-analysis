@@ -5,7 +5,7 @@ This project analyzes sales data from a fictional retail store selling items lik
 Dataset Overview
 The dataset includes:
  Date of sale
- Product name (Jeans, Shoes, Cap)
+ Product name ( T-shirt, Jacket ,Jeans, Shoes, Cap)
  Units Sold
  Unit Price
  Calculated Revenue
